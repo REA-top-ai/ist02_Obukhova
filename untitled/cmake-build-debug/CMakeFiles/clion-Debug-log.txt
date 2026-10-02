@@ -1,0 +1,14 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S "/Users/albinaobuhova/CLionProjects/lena headers" -B "/Users/albinaobuhova/CLionProjects/lena headers/cmake-build-debug"
+CMake Error: Could not find cmake module file: CMakeDetermineheadersCompiler.cmake
+CMake Error: Could not find cmake module file: /Users/albinaobuhova/CLionProjects/lena headers/cmake-build-debug/CMakeFiles/4.3.1/CMakeheadersCompiler.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_headers_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_headers_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeheadersInformation.cmake
+CMake Error: CMAKE_headers_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!

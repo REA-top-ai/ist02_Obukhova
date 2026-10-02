@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/albinaobuhova/CLionProjects/untitled/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/untitled.dir/main.cpp.o -c /Users/albinaobuhova/CLionProjects/untitled/main.cpp",
+  "file": "/Users/albinaobuhova/CLionProjects/untitled/main.cpp",
+  "output": "/Users/albinaobuhova/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.o"
+}
+]
